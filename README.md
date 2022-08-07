@@ -37,9 +37,9 @@ Single (Filter)
 - Aims of Analysis Data is to summarize the data.
 Single point- give data like, sum, average, percentage.
 Tablefunction- summarizing the portion of the table
-Calculated Function
-Calculated Table
-Calculated Column
+- Calculated Function
+- Calculated Table
+- Calculated Column
 
 # Exploration
 To know the different function in DAX
@@ -60,17 +60,17 @@ Measure: allow us to exted our analysis further more.
 E.g Revenue = Sum(Sales[Sale])
 Note: Measure are the formular use in the Viz, don’t add to data
 * Objective: to display the team by sale by particular month
-Input slicer – Order of date(Year, Month)
-Bar chart of sales by sales Team
-Right on sales to create a new ,measure
-To understand measure you must knw – Evaluation context (Row and Filter)
-Measure work based on filter context
+ Input slicer – Order of date(Year, Month)
+ Bar chart of sales by sales Team
+ Right on sales to create a new measure
+- To understand measure you must knw – Evaluation context (Row and Filter)
+- Measure work based on filter context
 E.g Revenue without Organic = Sumx(Sales[Sales])
 =Sumx(
-…………Filter(sales, Related(salesReps
-[sales team])<>”organic”)
-………...Sales[Sales])
-To compare or filter the year and  month 
+  …………Filter(sales, Related(salesReps
+   [sales team])<>”organic”)
+   ………...Sales[Sales])
+- To compare or filter the year and  month 
 E.g Previous month Revenue = Calculated([Revenue(WO Organic)],Previous month (sales[order date] . [date])
  
 # Data sourcing
