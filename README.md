@@ -80,5 +80,5 @@ Data link https://aka.ms/30DLDATGitHubRepo
 The folder name is “DAX Dataset”
 
 Then, we create a report for the Dataset 
-https://github.com/OluwaseunPhronesis/DAX-Data-Analysis-Xpression-/upload/main
+![This is image]https://github.com/OluwaseunPhronesis/DAX-Data-Analysis-Xpression-/blob/main/DAX%20APP.png
 
