@@ -83,5 +83,5 @@ Then, we create a report for the Dataset
 
 ![DAX APP](https://user-images.githubusercontent.com/107544339/215388418-ec490b20-6e8b-412f-b2bb-f5bbd432a95b.png)
 
-![This image] https://github.com/OluwaseunPhronesis/DAX-Data-Analysis-Xpression-/blob/main/DAX%20APP.png
+
 
